@@ -18,7 +18,7 @@
 
 - 🔭 Currently working on **[QuickPanel](https://quickpanel.net/)** - En gelişmiş SMM Panel yazılımı
 - 🌱 Learning **Modern Frameworks, Cloud Architecture & Microservices**
-- 👨‍💻 All projects available at **[GitHub](https://github.com/fastuptime?tab=repositories)**
+- 👨‍💻 All projects available at **[GitHub](https://github.com/codedByCan?tab=repositories)**
 - 💬 Ask me about **Node.js, TypeScript, Go, Rust, C#, MongoDB, Redis, Multi-Tenant Architecture, SMM Panels**
 - ⚡ Fun fact: **I love automating everything & building scalable systems!**
 - 🎯 2024 Goals: **Contributing more to Open Source projects & Advanced SMM Solutions**
@@ -131,16 +131,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fastuptime&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fastuptime&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codedByCan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedByCan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fastuptime&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedByCan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fastuptime&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedByCan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="100%"/>
 </div>
 
 ---
@@ -148,7 +148,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fastuptime&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=codedByCan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 </div>
 
 ---
@@ -167,7 +167,7 @@
 
 <div align="center">
   
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fastuptime)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codedByCan)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/canadam2023)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/by.can.i)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@quickpanelnet)
@@ -246,6 +246,6 @@ pie title My Development Time Distribution
   
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
   
-  <sub>© 2024 FastUpTime - Crafted with ❤️ and lots of ☕</sub>
+  <sub>© 2024 codedByCan - Crafted with ❤️ and lots of ☕</sub>
   
 </div>
