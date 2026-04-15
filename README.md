@@ -172,6 +172,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/by.can.i)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@quickpanelnet)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RVCs3gP6q8)
+  [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](weixin://dl/chat?wxid_zhb3g612wdbj22)
   
   <br>
   
