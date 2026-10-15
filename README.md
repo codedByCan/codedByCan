@@ -229,6 +229,14 @@ pie title My Development Time Distribution
   
   Perfect for hosting your next big project! 💻
   
+  <hr />
+  
+  ### 🛜 1 month of free internet with speeds up to 1,000 Mbps
+
+  <a href="https://www.turk.net/internet-hiz-altyapi-sorgulama?promo=TFJLRDPEV56G">
+    <img width="564" height="220" alt="image" src="https://github.com/user-attachments/assets/3e2beae5-abd4-481c-b921-d36aab19e849" />
+  </a>
+
 </div>
 
 ---
